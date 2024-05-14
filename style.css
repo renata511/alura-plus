@@ -73,3 +73,19 @@ body{
 .descricao-texto{
     color: var(--cinza-secundario);
 }
+
+
+
+.dispositivo-lista{
+    display: flex;
+    justify-content: center;
+    margin: 5em 0;
+}
+.dispositivos{
+    text-align: center;
+    list-style-type: none;
+}
+.dispositivo-titulo{
+font-size: 32px;
+
+}
